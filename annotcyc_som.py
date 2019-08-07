@@ -1,6 +1,7 @@
 import mne
 import matplotlib.pyplot as plt
 
+#start
 plt.ion()
 
 base_dir ="C:/Users/muellena/Desktop/Desktop/Experiment Somatosensorik/SOMA Daten/"
